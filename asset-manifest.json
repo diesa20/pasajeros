@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diesa20/pasajeros.git/static/css/main.1b15ff83.css",
+    "main.js": "/diesa20/pasajeros.git/static/js/main.561d331a.js",
+    "static/js/453.d6579b24.chunk.js": "/diesa20/pasajeros.git/static/js/453.d6579b24.chunk.js",
+    "index.html": "/diesa20/pasajeros.git/index.html",
+    "main.1b15ff83.css.map": "/diesa20/pasajeros.git/static/css/main.1b15ff83.css.map",
+    "main.561d331a.js.map": "/diesa20/pasajeros.git/static/js/main.561d331a.js.map",
+    "453.d6579b24.chunk.js.map": "/diesa20/pasajeros.git/static/js/453.d6579b24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b15ff83.css",
+    "static/js/main.561d331a.js"
+  ]
+}
